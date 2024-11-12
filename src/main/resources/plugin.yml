@@ -1,0 +1,4 @@
+name: WebhookDiscord
+version: '${project.version}'
+main: fr.webhookdiscord.WebhookDiscord
+api-version: '1.20'

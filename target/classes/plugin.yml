@@ -1,0 +1,4 @@
+name: WebhookDiscord
+version: '1.0-SNAPSHOT'
+main: fr.webhookdiscord.WebhookDiscord
+api-version: '1.20'

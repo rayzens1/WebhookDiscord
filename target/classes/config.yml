@@ -1,0 +1,5 @@
+webhook_url: "https://discord.com/api/webhooks/1305955217795448933/C7kkYfLRVn2TIkeFJuh2DtRPiwI-GBH-AcQTTtjDJ-4tpgbUrOAwMF7Hmd-d-QsOmHho"
+commands:
+  - example
+  - test
+  - mycommand
